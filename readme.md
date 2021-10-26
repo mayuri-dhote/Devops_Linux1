@@ -20,7 +20,7 @@ Ans.The main difference between UEFI and legacy boot is that the UEFI is the lat
 BIOS stands for Basic Input/Output System, the firmware we talked about in the above boot procedure.
 It is stored on an EPROM (Erasable Programmable Read-Only Memory), allowing the manufacturer to push out updates easily.UEFI stands for Unified Extensible Firmware Interface. It does the same job as a BIOS, but with one basic difference: it stores all data about initialization and startup in an .efi file, instead of storing it on the firmware.
 
-**6. When should you go for Ubuntu & when for other systems ?
+### 6. When should you go for Ubuntu & when for other systems ?
 
 Ans. In comparison to Windows, Ubuntu provides a better option for privacy and security. The best advantage of having Ubuntu is that we can acquire the required privacy and additional security without having any third party solution. Risk of hacking and various other attacks can be minimized by using this distribution.
 
